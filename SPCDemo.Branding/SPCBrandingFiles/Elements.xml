@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="SPCBrandingFiles" Url="_catalogs/masterpage">
+    <File Path="SPCBrandingFiles\SPC14.html" Url="SPC14.html" Type="GhostableInLibrary" IgnoreIfAlreadyExists="FALSE" />
+    <File Path="SPCBrandingFiles\SPC14.master" Url="SPC14.master" Type="GhostableInLibrary" IgnoreIfAlreadyExists="FALSE" />
+    <File Path="SPCBrandingFiles\SPC14.preview" Url="SPC14.preview" Type="GhostableInLibrary" IgnoreIfAlreadyExists="FALSE" />
+  </Module>
+</Elements>

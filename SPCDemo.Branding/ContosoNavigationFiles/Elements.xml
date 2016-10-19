@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="ContosoNavigationFiles" Url="Style Library">
+    <File Path="ContosoNavigationFiles\Contoso.CustomNavigation.css" Url="Contoso/Contoso.CustomNavigation.css" />
+    <File Path="ContosoNavigationFiles\Contoso.CustomNavigation.js" Url="Contoso/Contoso.CustomNavigation.js" />
+  </Module>
+</Elements>
